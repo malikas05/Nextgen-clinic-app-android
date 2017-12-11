@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nextgen Clinic</string>
+
+    <string-array name="categories">
+        <item>nurses</item>
+        <item>doctors</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>otolaryngology</item>
+        <item>ophthalmology</item>
+        <item>gynecology</item>
+        <item>dermatology</item>
+        <item>neurology</item>
+        <item>cardiology</item>
+    </string-array>
+</resources>
